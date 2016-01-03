@@ -1,2 +1,2 @@
 # fenics-demo
-Demonstration solving PDEs by finite element methods using FEniCS.
+Demos solving PDEs by finite element methods using FEniCS.
